@@ -1,0 +1,4 @@
+baseURL = 'https://4coresolutions.co'
+languageCode = 'en-us'
+title = '4CORE Solutions'
+theme = 'hello-friend-ng'
